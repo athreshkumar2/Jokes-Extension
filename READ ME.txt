@@ -1,0 +1,4 @@
+It is a simple chrome extension which will fetch jokes and diaplay then in an extension tab with custom CSS embedded. 
+
+
+Developed by Athresh kumar labde.
